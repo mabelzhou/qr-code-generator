@@ -30,3 +30,5 @@ To run this project locally,
 ## License
 This project is licensed under MIT License.
 
+## Acknowledgements 
+This app's UI design is based on the work of [https://github.com/codingasmr](https://github.com/codingasmr)
