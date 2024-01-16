@@ -1,6 +1,8 @@
 # QR Code Generator
 A web-based QR code generator that allows user to quickly generate QR codes for text and links. Users can customize the QR code's size and colour palette using built-in colour pickers. 
 
+Live demo: https://mabelzhou.github.io/qr-code-generator/
+
 ## Tools Used
 - React
 - Vite
